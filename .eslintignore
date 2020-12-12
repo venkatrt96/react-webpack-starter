@@ -1,0 +1,13 @@
+# public directory
+dist
+
+# Dependency directories
+node_modules
+
+# Mac
+.DS_Store
+
+# Webpack files
+webpack.config.js
+webpack.dev.js
+webpack.prod.js

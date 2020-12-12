@@ -1,0 +1,12 @@
+### VS Code ###
+.vscode/
+
+### WebStorm ###
+.idea/
+
+### MAC ###
+**/.DS_Store
+
+### misc ###
+node_modules
+dist
